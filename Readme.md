@@ -22,7 +22,7 @@ Aplikasi **Absensi Wajah** adalah sistem berbasis Python untuk mendeteksi, menge
 
 ### 1. **Kloning Repository**
 Kloning repository ini ke komputer Anda:
-```bash
+
 git clone https://github.com/giripurnama007/absensi-wajah.git
 cd absensi-wajah
 
